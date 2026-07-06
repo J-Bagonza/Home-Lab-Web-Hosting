@@ -8,7 +8,7 @@
 
 ## Setting up the firewall on your VM
 
-something you have to know before you do this is that Linux has a built-in firewall system called netfilter in the kernel, but configuring it directly (via iptables or nftables) easy to get wrong — one misplaced rule and you can lock yourself out or leave a hole open tricky situation to find yourself in.
+something you have to know before you do this is that Linux has a built-in firewall system called netfilter in the kernel, but configuring it directly (via iptables or nftables) is easy to get wrong, one misplaced rule and you can lock yourself out or leave a hole open.tricky situation to find yourself in.
 
 ufw "Uncomplicated Firewall" is a friendly wrapper around that same kernel firewall — same protection, much simpler syntax for us.
 
