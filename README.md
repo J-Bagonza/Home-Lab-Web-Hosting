@@ -2,9 +2,9 @@
 
 > my logs into building a web server on a kali linux virtual machine. my host system is windows. by a retard to a retard. retardmaxxing.
 
-i am building the server to be able to host a website and access it from the internet. basically what i am trying to do is replace vercel, use a vm as my hosting/deployment layer.
+i am building the server to be able to host a website and access it from the internet. basically what i am trying to do is replace vercel, and use a vm as my hosting/deployment layer.
 
-this repository is simply my notes. i wrote them while learning, breaking things, fixing them and slowly figuring out how everything fits together. if you're also trying to understand how hosting actually works instead of pressing the deploy button and hoping for the best, maybe these logs will save you a few hours.
+this repository is simply my notes. i wrote them while learning, breaking things, fixing them and slowly figuring out how everything fits together. if you're also trying to understand how hosting actually works instead of pressing the deploy button and hoping for the best, maybe these logs will save you a few hours or cost you a few days and some sleep.
 
 ---
 
